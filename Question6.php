@@ -4,11 +4,11 @@ function multiply($num1, $num2) {
                                     //each iteration adds $num1 to result variable, and then returns result of multiplication(adds first input num to itself until second number is reached)
 
     for ($i = i; $i <= $num2; $i++) { 
-        $result = $result + $num1 // can also be $result+=$num1
+        $result = $result + $num1; // can also be $result+=$num1
         
     }
 
-    return $result
+    return $result;
 }
 
 $result= multiply(2, 5);
