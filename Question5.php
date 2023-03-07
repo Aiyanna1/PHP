@@ -9,7 +9,7 @@ function stringReverse ($string) {
     return $reversed;
 }
 
-$string = 'BackEnd'
-echo $reversed; 
- 
+$string = 'BackEnd';
+echo $reversed;
+
 ?>
